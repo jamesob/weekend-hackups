@@ -1,23 +1,23 @@
 
 @font-face {
   font-family: kilogram;
-  src: url('/fonts/kilogram.otf')
+  src: url('/weekend-hackups/fonts/kilogram.otf')
 }
 @font-face {
   font-family: molot;
-  src: url('/fonts/molot.otf')
+  src: url('/weekend-hackups/fonts/molot.otf')
 }
 @font-face {
   font-family: titillium;
-  src: url('/fonts/titillium-light.otf')
+  src: url('/weekend-hackups/fonts/titillium-light.otf')
 }
 @font-face {
   font-family: aharoni;
-  src: url('/fonts/aharoni-bold.ttf')
+  src: url('/weekend-hackups/fonts/aharoni-bold.ttf')
 }
 
 html {
-  background: url(/images/header.jpg) repeat center center;
+  background: url(/weekend-hackups/images/header.jpg) repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
